@@ -1,1 +1,3 @@
-# tournamentmanagement-system
+<img width="566" height="148" alt="image" src="https://github.com/user-attachments/assets/8fcdede9-ba34-4cea-8f7c-0a1620ee25c0" /># tournamentmanagement-system
+
+This Python script, titled Tornament Scoreboard.py, is a specialized desktop application built with tkinter that automates a math-based competition between registered individuals and teams. It features a turn-based match system where participants rotate through randomly generated arithmetic problems—covering addition, subtraction, multiplication, and division—to earn points for correct answers. The program ensures fair play by preventing unbalanced matchups between teams and individuals, while also tracking high-score rankings for all participants. To ensure no progress is lost, the system utilizes a persistent data model that automatically saves and loads all registration details and scores using a local JSON file.
